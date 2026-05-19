@@ -1,4 +1,4 @@
-## 📊 Resumo do Projeto
+##  Resumo do Projeto
 
 Este notebook foi desenvolvido com foco no aprendizado e prática da biblioteca Pandas para análise e manipulação de dados em Python.
 
@@ -6,7 +6,7 @@ Durante o projeto, foram explorados conceitos fundamentais de análise de dados 
 
 O notebook apresenta exemplos práticos de manipulação de tabelas utilizando dados simulados, permitindo compreender na prática como funciona o fluxo inicial de análise e limpeza de dados em projetos de Data Science e análise de informações.
 
-### 🔧 Conteúdos abordados
+###  Conteúdos abordados
 
 * Criação de DataFrames e Series
 * Importação de dados com Pandas
@@ -19,12 +19,12 @@ O notebook apresenta exemplos práticos de manipulação de tabelas utilizando d
 * Tratamento de valores nulos com `dropna()` e `fillna()`
 * Contagem de ocorrências com `value_counts()`
 
-### 🚀 Tecnologias utilizadas
+###  Tecnologias utilizadas
 
 * Python
 * Pandas
 * Google Colab
 
-### 🎯 Objetivo
+###  Objetivo
 
 O principal objetivo deste notebook é consolidar conhecimentos básicos e intermediários em manipulação e tratamento de dados utilizando Pandas, servindo como base para estudos futuros em análise de dados, automação e ciência de dados.
